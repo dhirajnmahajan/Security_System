@@ -1,7 +1,7 @@
 
 # SECURITY SYSTEM
 
-## A simple SECURITY system on the basis of login and sign up mechanism(Code).
+### A simple SECURITY system on the basis of login and sign up mechanism(Code).
 
 - It is simple console application without graphics developed in C++ programming.
 - It is created in VS Code IDE and compiled with the javac compiler.
