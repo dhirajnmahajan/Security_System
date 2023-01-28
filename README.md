@@ -39,7 +39,8 @@
 
 ### Output:
 
-![Main_Sec_system](https://user-images.githubusercontent.com/122169637/215242305-7bcda9f4-d96e-462f-a3ad-07c7cb2fd4f8.JPG)
+
+![Main_Sec_system](https://user-images.githubusercontent.com/122169637/215242404-b9cacdee-7ef2-4279-9368-8852b666e36c.JPG)
 
 ## Author : -
 
